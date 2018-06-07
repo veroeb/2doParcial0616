@@ -1,0 +1,7 @@
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\Vero\Documents\GitHub\2doParcial0616\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
