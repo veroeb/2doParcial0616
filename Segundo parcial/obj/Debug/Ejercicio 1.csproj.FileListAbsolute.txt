@@ -1,0 +1,7 @@
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe.config
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.pdb
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.exe
+C:\Users\Vero\Documents\c sharp\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.pdb
