@@ -6,15 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_3
 {
-    public class FueraDeRangoException
+    public class FueraDeRangoException : Exception
     {
-
-        //    public IndexOutOfRangeException(string error);
-        //    public FueraDeRangoException(string error)
-        //    {
-        //        IndexOutOfRangeException(error);
-        //    }
-
-        //    public IndexOutOfRangeException(string error) { }
+        public FueraDeRangoException(string error) : base(error)
+        {
+        }
     }
 }

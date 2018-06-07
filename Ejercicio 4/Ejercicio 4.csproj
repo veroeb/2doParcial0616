@@ -42,11 +42,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgujeroNegro.cs" />
+    <Compile Include="Asteroide.cs" />
+    <Compile Include="CentroGalactico.cs" />
+    <Compile Include="Cometa.cs" />
+    <Compile Include="CuerpoCeleste.cs" />
+    <Compile Include="Estrella.cs" />
+    <Compile Include="EstrellaBinaria.cs" />
+    <Compile Include="EstrellaNormal.cs" />
+    <Compile Include="IGalaxia.cs" />
+    <Compile Include="Planeta.cs" />
+    <Compile Include="PlanetaGaseoso.cs" />
+    <Compile Include="PlanetaRocoso.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SistemaSolar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Ejercicio 4 - diagrama.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

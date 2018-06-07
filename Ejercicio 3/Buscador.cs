@@ -26,10 +26,8 @@ namespace Ejercicio_3
         {
             if (elementos.Count() < idx || idx < 0)
             {
-                throw new IndexOutOfRangeException("Está fuera del rango en el array");     //No se puede heredar de IndexOutOfRangeException, la clase está sealed
+                throw new FueraDeRangoException("Está fuera del rango en el array");     //No se puede heredar de IndexOutOfRangeException, la clase está sealed
             }
-            else
-                throw new Exception();
         }
     }
 }

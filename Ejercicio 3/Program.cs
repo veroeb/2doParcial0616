@@ -22,7 +22,7 @@ namespace Ejercicio_3
                 Buscador buscador = new Buscador();
                 buscador.GetElemento(elementos, 3);
             }
-            catch(IndexOutOfRangeException e)
+            catch(FueraDeRangoException e)
             {
                 Console.WriteLine(e.Message);
             }
