@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_2
 {
-    public class Factura
+    public interface IFactura
     {
     }
 }

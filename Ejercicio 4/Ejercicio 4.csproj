@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7ACD5899-0BF3-464C-95D9-250B05B00C0C}</ProjectGuid>
+    <ProjectGuid>{B3B6F4F3-1D52-4686-A22F-D4C17B5C1EE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Segundo_parcial</RootNamespace>
-    <AssemblyName>Segundo parcial</AssemblyName>
+    <RootNamespace>Ejercicio_4</RootNamespace>
+    <AssemblyName>Ejercicio 4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,17 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Compartir.cs" />
-    <Compile Include="Facebook.cs" />
-    <Compile Include="Instagram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RedSocial.cs" />
-    <Compile Include="Twitter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Ejercicio 1 - Diagrama.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

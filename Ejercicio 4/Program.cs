@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_2
+namespace Ejercicio_4
 {
-    public interface IFacturaIVA : IFactura
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

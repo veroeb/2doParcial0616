@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculador.cs" />
-    <Compile Include="Factura.cs" />
+    <Compile Include="IFactura.cs" />
     <Compile Include="IFacturaIVA.cs" />
     <Compile Include="IFacturaSIVA.cs" />
     <Compile Include="Producto.cs" />
@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Ejercicio 1 - Diagrama.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
